@@ -1,9 +1,9 @@
 # DesktopVirtualAssitant
-This desktop virtual assistant is solely based on python programming language
+This desktop virtual assistant is solely based on python programming language <br>
 
-Features (Over voice command):
-1)Search in Wikipedia
-2)open Websites or application softwares
+Features (Over voice command):<br>
+1)Search in Wikipedia<br>
+2)open Websites or application softwares<br>
 3)Play music from local storage
 4)Tell time
 5)Tell Day

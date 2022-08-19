@@ -11,7 +11,7 @@ Features (Over voice command):<br>
 7)Get weather forecast of any city in the world<br>
 8)Get google location/open google map of any place<br>
 9)Log off your system<br>
-10)Restart your system<br><br>
+10)Restart your system<br>
 
 Modules/Packages used:<br>
 1)datetime<br>
@@ -22,10 +22,10 @@ Modules/Packages used:<br>
 6)wikipedia<br>
 7)webbrowser<br>
 8)os<br>
-9)smtplib<br><br>
+9)smtplib<br>
 
 API used:<br>
-1)Weather API from openweathermap.org<br><br>
+1)Weather API from openweathermap.org<br>
 
 To setup the virtual assistant:<br>
 1)Install all the above mentioned modules/Packages in the venv of your system.<br>
